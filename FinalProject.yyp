@@ -1098,7 +1098,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/s_player_down_ide\/s_player_down_ide.yy",
+                "resourcePath": "sprites\/s_player_back_ide\/s_player_back_ide.yy",
                 "resourceType": "GMSprite"
             }
         },
