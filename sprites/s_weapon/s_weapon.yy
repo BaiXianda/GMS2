@@ -6,9 +6,9 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 59,
+    "bbox_bottom": 211,
     "bbox_left": 0,
-    "bbox_right": 8,
+    "bbox_right": 65,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -16,34 +16,34 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "cacb0dee-1fa8-4830-8d41-72cb693dd0d2",
+            "id": "424811db-6851-40f8-9d64-5b253f20e5ac",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "138a24ba-85e5-4af4-86a0-1e8890fdd11d",
             "compositeImage": {
-                "id": "7b3f8a2b-a8d2-4e71-b679-635fa1c5d5a4",
+                "id": "5a200019-0500-4855-9575-e9bd8283fee4",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "cacb0dee-1fa8-4830-8d41-72cb693dd0d2",
+                "FrameId": "424811db-6851-40f8-9d64-5b253f20e5ac",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "07df1793-95dc-44a1-b450-95aa7c0e1bae",
+                    "id": "7d9dea1d-b928-4036-ac32-4648f9b916f9",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "cacb0dee-1fa8-4830-8d41-72cb693dd0d2",
-                    "LayerId": "e87c1b3f-1392-495a-80f6-cb70ec54a167"
+                    "FrameId": "424811db-6851-40f8-9d64-5b253f20e5ac",
+                    "LayerId": "fc3052e1-d29d-43ce-85a9-0a5d14b1790b"
                 }
             ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 60,
+    "height": 217,
     "layers": [
         {
-            "id": "e87c1b3f-1392-495a-80f6-cb70ec54a167",
+            "id": "fc3052e1-d29d-43ce-85a9-0a5d14b1790b",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "138a24ba-85e5-4af4-86a0-1e8890fdd11d",
@@ -64,7 +64,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 9,
+    "width": 66,
     "xorig": 0,
     "yorig": 0
 }
