@@ -1,19 +1,10 @@
 {
-    "id": "d498a8a3-93e5-457e-968a-60be75ec49dc",
+    "id": "de937bc6-5d1c-4452-95df-9485e206c850",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_camera_controller",
+    "name": "o_wood",
     "eventList": [
-        {
-            "id": "64e880e0-0638-4d81-bbe3-e457ee0fed22",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "d498a8a3-93e5-457e-968a-60be75ec49dc"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "46bb6484-16ed-4809-b651-69242016dab6",
     "visible": true
 }
