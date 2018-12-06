@@ -6,9 +6,9 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 40,
+    "bbox_bottom": 59,
     "bbox_left": 0,
-    "bbox_right": 9,
+    "bbox_right": 8,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -16,34 +16,34 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "17285cf9-9d93-43a7-bed7-98424e027232",
+            "id": "cacb0dee-1fa8-4830-8d41-72cb693dd0d2",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "138a24ba-85e5-4af4-86a0-1e8890fdd11d",
             "compositeImage": {
-                "id": "e7e90975-0c44-4b84-85fd-636c6e0faf54",
+                "id": "7b3f8a2b-a8d2-4e71-b679-635fa1c5d5a4",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "17285cf9-9d93-43a7-bed7-98424e027232",
+                "FrameId": "cacb0dee-1fa8-4830-8d41-72cb693dd0d2",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "e8a5963f-a3c3-4680-8789-2a4a05fef781",
+                    "id": "07df1793-95dc-44a1-b450-95aa7c0e1bae",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "17285cf9-9d93-43a7-bed7-98424e027232",
-                    "LayerId": "19e72d8d-7bb5-4425-b5f3-a9aeb9eab837"
+                    "FrameId": "cacb0dee-1fa8-4830-8d41-72cb693dd0d2",
+                    "LayerId": "e87c1b3f-1392-495a-80f6-cb70ec54a167"
                 }
             ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 41,
+    "height": 60,
     "layers": [
         {
-            "id": "19e72d8d-7bb5-4425-b5f3-a9aeb9eab837",
+            "id": "e87c1b3f-1392-495a-80f6-cb70ec54a167",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "138a24ba-85e5-4af4-86a0-1e8890fdd11d",
@@ -64,7 +64,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 10,
+    "width": 9,
     "xorig": 0,
     "yorig": 0
 }
