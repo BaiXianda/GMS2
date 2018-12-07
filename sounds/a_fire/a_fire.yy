@@ -3,7 +3,7 @@
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "a_fire",
-    "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
+    "audioGroupGuid": "fdc87d44-4f97-4f39-bb15-dda8aafdf22b",
     "bitDepth": 1,
     "bitRate": 128,
     "kind": 0,
